@@ -8,5 +8,6 @@ public class CalculatorExample {
         System.out.println("result1 : " + result1);
         System.out.println("result2 : " + result2);
         System.out.println("result3 : " + result3);
+        System.out.println(Calculator.plus(10, 5));
     }
 }
