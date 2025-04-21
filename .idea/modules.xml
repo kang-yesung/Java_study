@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/04-inheritance/04-inheritance.iml" filepath="$PROJECT_DIR$/04-inheritance/04-inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_study.iml" filepath="$PROJECT_DIR$/.idea/Java_study.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch01-variable-type-operator/ch01-variable-type-operator.iml" filepath="$PROJECT_DIR$/ch01-variable-type-operator/ch01-variable-type-operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch02-conditional-loop/ch02-conditional-loop.iml" filepath="$PROJECT_DIR$/ch02-conditional-loop/ch02-conditional-loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch03-class.iml" filepath="$PROJECT_DIR$/.idea/modules/ch03-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04-inheritance/ch04-inheritance.iml" filepath="$PROJECT_DIR$/ch04-inheritance/ch04-inheritance.iml" />
     </modules>
   </component>
 </project>
