@@ -1,0 +1,9 @@
+package advanced.ch08.sec11.exam01;
+
+public class Car {
+    public  Tire tire;
+
+    public void roll() {
+        tire.roll();
+    }
+}

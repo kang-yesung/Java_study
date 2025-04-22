@@ -16,7 +16,7 @@ public class PersonDTO {
     }
 
     public String information(){
-        return "이름: " + name + "나이" + age + "신장" + height + "몸무게" + weight + "학년";
+        return name + " " +  age + " " + height + " " + weight;
     }
 
 }
