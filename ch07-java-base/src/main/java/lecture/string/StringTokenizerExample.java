@@ -1,4 +1,4 @@
-package string;
+package lecture.string;
 
 import java.util.Arrays;
 import java.util.StringTokenizer;

@@ -1,4 +1,4 @@
-package ch14.sec03.exam03;
+package basic.ch14.sec03.exam03;
 
 public class BeepPrintExample {
 }

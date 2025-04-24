@@ -1,4 +1,4 @@
-package string;
+package lecture.string;
 
 public class StringBuilderExample {
     public static void main(String[] args) {
