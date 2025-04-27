@@ -17,7 +17,7 @@ public class ScannerExample {
             System.out.println("");
         }
 
-        
+
         scanner.close();
 
     }

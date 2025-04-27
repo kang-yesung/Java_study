@@ -1,6 +1,6 @@
 package com.ohgiraffers.hw1.model.dto;
 
-public class PersonDTO {
+public abstract class PersonDTO {
     protected String name;
     int age = 0;
     double height;
@@ -15,8 +15,17 @@ public class PersonDTO {
         this.weight = weight;
     }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
+
     public String information(){
         return name + " " +  age + " " + height + " " + weight;
     }
 
+    public abstract String inpormation();
 }
