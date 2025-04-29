@@ -9,7 +9,7 @@ public class LinkedListExample {
         List<Board> list = new LinkedList<>();
 
         for(int i= 0; i<5; i++){
-            list.add(new Board());
+            list.add(new Board("subject"+(i+1), "content" + (i+1), "writer"+(i+1)));
         }
 
         System.out.println(list.size()+"개");

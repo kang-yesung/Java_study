@@ -9,8 +9,18 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 
+
 public class Board {
     private String subject;
     private String content;
     private String writer;
+
+    @Override
+    public String toString() {
+        return "Board{" +
+                "subject='" + subject + '\'' +
+                ", content='" + content + '\'' +
+                ", writer='" + writer + '\'' +
+                '}';
+    }
 }
